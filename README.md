@@ -12,6 +12,11 @@ API Fortress helps to test and monitor your APIs without writing any code.
 
 2. Complete the form, Select check By clicking this button you agree the Terms of Use, select I'm not a robot and click on Create Account.
 
+3. Provide Company Name and click on Sumbit.
+4. Click on Complete Registration
+
+Dash board is presented.
+
 
 
 ## Docs
