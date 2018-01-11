@@ -34,6 +34,8 @@ https://www.youtube.com/channel/UC-1A7bSyYxR75rMlm2Ug9bw
 
 ## Resources:
 
+## API Fortress - Short Walkthrough (60s)
+
 ### API Fortress - Full Walkthrough (5mins)
 
 https://www.youtube.com/watch?v=pwSnkDhkK_0
