@@ -19,6 +19,9 @@ https://twitter.com/apifortress
 
 ## Follow on LinkedIn
 
+https://www.linkedin.com/company/api-fortress
+
+
 
 
 
