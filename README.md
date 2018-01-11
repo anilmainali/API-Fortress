@@ -32,6 +32,9 @@ https://www.youtube.com/user/apifortress
 https://www.youtube.com/channel/UC-1A7bSyYxR75rMlm2Ug9bw
 
 
+## Resources:
+
+
 
 
 
