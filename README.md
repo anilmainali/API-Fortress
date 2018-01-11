@@ -1,5 +1,5 @@
-# APIFORTRESS
-Getting started With APIFORTRESS
+# API Fortress
+Getting started With API Fortress
 
 API Fortress helps to test and monitor your APIs without writing any code.
 
