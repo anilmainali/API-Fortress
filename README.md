@@ -11,5 +11,7 @@ https://mastiff.apifortress.com/app/web/login/register
 
 ## Docs
 
+http://apifortress.com/doc/
+
 
 
